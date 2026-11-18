@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HackSettings probe"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HackSettings probe"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HackSettings"
+    },
+    {
+      "name": "reason_manage_settings",
+      "value": "probe MANAGE_SETTINGS"
+    }
+  ]
+}

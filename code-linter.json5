@@ -1,0 +1,10 @@
+/**
+ * 静态检查的一些配置
+ */
+{
+  "rule": {
+    "camelcase": true,
+    "curly": true
+  },
+  "files": ["./**/*.ets"]
+}

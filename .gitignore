@@ -1,0 +1,42 @@
+# DevEco Studio IDE settings
+.idea/
+.gradle/
+*.iml
+*.ipr
+*.iws
+local.properties
+
+# Build outputs
+build/
+capture/
+output/
+dist/
+release/
+.hvigor/
+.cxx/
+
+# Local-only build helper, not published
+/Makefile
+
+# HarmonyOS / ArkTS / Ohpm Dependency Directories
+oh_modules/
+node_modules/
+
+# Automatically generated build profile code
+BuildProfile.ets
+
+# Generated test and coverage folders
+.test/
+ohosTest/build/
+
+# Signing certificates and private keys (DO NOT COMMIT)
+*.p12
+*.jks
+*.cer
+*.p7b
+# If you use a local JSON file for dynamic signing configs
+data.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
